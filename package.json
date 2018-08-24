@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epestanamx/tutorial-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epestanamx/tutorial-git/issues"
+  },
+  "homepage": "https://github.com/epestanamx/tutorial-git#readme"
+}
