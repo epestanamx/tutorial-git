@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "qtest": "mocha mocha tests/**",
     "test": "MOCHA_FILE=./jenkins-test-results.xml mocha tests/** --reporter mocha-junit-reporter"
   },
   "repository": {
