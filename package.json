@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "MOCHA_FILE=./jenkins-test-results.xml ./node_modules/.bin/mocha tests/** --reporter mocha-junit-reporter"
+    "test": "MOCHA_FILE=./jenkins-test-results.xml mocha tests/** --reporter mocha-junit-reporter"
   },
   "repository": {
     "type": "git",
